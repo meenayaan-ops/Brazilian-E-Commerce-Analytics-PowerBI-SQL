@@ -1,4 +1,4 @@
-# Brazilian-E-Commerce-Analytics-PowerBI-SQL
+📊 Brazilian E-Commerce Analytics Dashboard
 
 Brazilian E-Commerce Dashboard
 🛒 Olist Analytics: Brazilian E-Commerce Sales, Delivery & Customer Insights Dashboard
